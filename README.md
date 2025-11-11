@@ -3,7 +3,7 @@
 </a>
 
 <p align="center">
-  <a href="https://portfolio-tau.netlify.app/">
+  <a href="https://www.linkedin.com/in/tau-dev/">
     <img src="https://github.com/cafloyd/cafloyd/raw/master/images/branded-link.png" width="30px;" alt="Portfolio Site" />
   </a>
   <a href="https://www.linkedin.com/in/tau-dev/">
