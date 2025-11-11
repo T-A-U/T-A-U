@@ -6,14 +6,14 @@
   <a href="https://portfolio-tau.netlify.app/">
     <img src="https://github.com/cafloyd/cafloyd/raw/master/images/branded-link.png" width="30px;" alt="Portfolio Site" />
   </a>
-  <a href="https://www.linkedin.com/in/winnie-y-67422b141/">
+  <a href="https://www.linkedin.com/in/tau-dev/">
     <img src="https://github.com/cafloyd/cafloyd/raw/master/images/branded-linkedin.png" width="30px;" alt="LinkedIn" />
   </a>
 </p>
 
 I am a Bostson-based software engineer; I bring the resilience, learners spirit and collaborative nature into every engineering team I join. Let's work together.
 
-See [my website](https://portfolio-tau.netlify.app/) for more information!
+See [my website](https://tau-dev.netlify.app/) for more information!
 
 ---
 
